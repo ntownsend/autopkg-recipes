@@ -4,7 +4,7 @@
             
             <dict>
                 <key>Description</key>
-                    <string>Downloads SuperCollier and imports into Munki.</string>
+                    <string>Downloads Pd-extended and imports into Munki.</string>
                 <key>Input</key>
             
                 <dict>
