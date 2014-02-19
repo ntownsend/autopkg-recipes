@@ -63,9 +63,9 @@
                                         <string>%MUNKI_REPO_SUBDIR%</string>
                                     <key>additional_makepkginfo_options</key>
                                         <array>
-                                            <string>destinationpath</string>
+                                            <string>destination_path</string>
                                             <string>%APP_DESTINATION%</string>
-                                            <string>item</string>
+                                            <string>source_item</string>
                                             <string>SuperCollider</string>
                                         </array>
                                 </dict>
