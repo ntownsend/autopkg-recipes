@@ -66,7 +66,7 @@
                                             <string>destination_path</string>
                                             <string>%APP_DESTINATION%</string>
                                             <string>source_item</string>
-                                            <string>SuperCollider</string>
+                                            <string>%NAME%</string>
                                         </array>
                                 </dict>
                             <key>Processor</key>
