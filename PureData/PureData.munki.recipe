@@ -65,8 +65,9 @@
                                         <array>
                                             <string>--destinationpath</string>
                                             <string>%APP_DESTINATION%</string>
-                                            <string>--itemname</string>
+<!--                                            <string>--itemname</string>
                                             <string>%NAME%</string>
+-->
                                         </array>
                                 </dict>
                             <key>Processor</key>
