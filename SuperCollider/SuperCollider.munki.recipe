@@ -13,7 +13,7 @@
                     <key>MUNKI_REPO_SUBDIR</key>
                         <string>supercollider</string>
                     <key>NAME</key>
-                        <string>SuperCOllider</string>
+                        <string>SuperCollider</string>
                     <key>SOURCEFORGE_FILE_PATTERN</key>
                         <string>SuperCollider-[0-9_\.]*\.dmg</string>
                     <key>SOURCEFORGE_PROJECT_ID</key>
