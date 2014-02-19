@@ -13,7 +13,7 @@
                     <key>MUNKI_REPO_SUBDIR</key>
                         <string>pd</string>
                     <key>NAME</key>
-                        <string>Pd-extended</string>
+                        <string>Pd-extended.app</string>
                     <key>SOURCEFORGE_FILE_PATTERN</key>
                         <string>Pd-[0-9_\.]*-extended-macosx106-x86_64\.dmg</string>
                     <key>SOURCEFORGE_PROJECT_ID</key>
