@@ -9,7 +9,7 @@
             
                 <dict>
                     <key>IDENTIFIER</key>
-                        <string>com.github.ntownsend.recipes.SuperCollider</string>
+                        <string>com.github.ntownsend.autopkg-recipes.SuperCollider</string>
                     <key>MUNKI_REPO_SUBDIR</key>
                         <string>supercollider</string>
                     <key>NAME</key>
