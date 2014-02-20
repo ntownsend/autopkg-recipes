@@ -10,7 +10,7 @@ PureData Extended - Done
 
 CSound - Done
 
-SonicVisuliser
+SonicVisualiser
 
 MIDI Monitor
 
