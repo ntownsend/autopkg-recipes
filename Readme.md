@@ -8,9 +8,9 @@ SuperCollider - Done
 
 PureData Extended - Done
 
-CSound
+CSound - Done
 
-SonicVisuliser
+SonicVisualiser
 
 MIDI Monitor
 
